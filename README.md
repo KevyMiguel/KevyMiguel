@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil😁
+## Bem-vindo(a) ao meu perfil😁 
 
  <div>
    <h1>Eu </h1>
@@ -10,7 +10,7 @@
  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
- ## Observação: Eu sei o básico das linguagens de programação mostradas acima👆
+## Observação: Eu sei o básico das linguagens de programação mostradas acima👆
 <br>
  
 ### Minhas redes sociais:

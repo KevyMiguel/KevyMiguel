@@ -12,7 +12,7 @@
  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
-<h2>Observação: Eu sei o básico das linguagens de programação mostradas acima👆</h2>
+<h3>Observação: Eu sei o básico das linguagens de programação mostradas acima👆</h3>
 
 <br>
  

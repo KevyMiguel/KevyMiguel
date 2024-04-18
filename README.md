@@ -2,7 +2,6 @@
 
  <div>
    <h3>Eu gosto de ler livros</h3>
-   <h1></h1>
 </div>
     
 <div style="display: inline_block">

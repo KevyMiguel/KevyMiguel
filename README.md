@@ -1,8 +1,8 @@
 ## Bem-vindo(a) ao meu perfil😁 
 
  <div>
-   <h3>Eu gosto de ler livros</h3>
-  <h3>Eu gosto de jogar vídeo game</h3>
+   <p>Eu gosto de ler livros</p>
+  <p>Eu gosto de jogar vídeo game</p>
 <br>
  <h3>Observação: Eu sei o básico das linguagens de programação mostradas abaixo👇🏻</h3>
  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

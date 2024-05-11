@@ -1,9 +1,11 @@
-## Bem-vindo(a) ao meu perfil😁 
+<h1>Bem-vindo(a) ao meu perfil😁</h1>  
 
- <div>
+ <div name="curiosidades">
    <p>Eu gosto de ler livros</p>
   <p>Eu gosto de jogar vídeo game</p>
 <br>
+ </div>
+  <div>
   <p>Observação 1: Eu sei somente o básico de HTML, CSS, JS, Python, PHP, C++ e Jupyter Notebook</p>
   <p>Observação 2: Com PHP, eu só consigo fazer um formulário com ligação a banco de dados. Em C++ eu consigo fazer um semáforo com Arduino. Com Jupyter Notebook eu consigo fazer uma automação de computador.</p>
 </div>

@@ -4,10 +4,10 @@
    <p>Eu gosto de ler livros</p>
   <p>Eu gosto de jogar vídeo game</p>
 <br>
- <h3>Observação: Eu sei o básico das linguagens de programação mostradas abaixo👇🏻</h3>
  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <h3>Observação: Sei o básico da linguagem de marcação (HTML) e da linguagem de estilização (CSS) e da linguagem de inteligência à páginas web (JavaScript)</h3>
 </div>
 <br>
  

@@ -6,13 +6,11 @@
 <br>
   <h3>Observação 1: Eu sei somente o básico de HTML, CSS, JS, Python, PHP, C++ e Jupyter Notebook</h3>
   <h3>Observação 2: Com PHP, eu só consigo fazer um formulário com ligação a banco de dados. Em C++ eu consigo fazer um semáforo com Arduino. Com Jupyter Notebook eu consigo fazer uma automação de computador.</h3>
-
-### Direitos autorais ícones das linguagens de programação:
-
-# "https://github.com/devicons".
 </div>
-<br>
- 
+## Direitos autorais ícones das linguagens de programação:
+
+<p>"https://github.com/devicons".</p> 
+
 ### Minhas redes sociais:
  
 <div> 

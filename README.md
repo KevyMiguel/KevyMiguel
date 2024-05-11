@@ -9,7 +9,7 @@
  ## Linguagens de programação
   <div id="linguagens-de-programaçao">
   <p>Eu sei somente o básico de HTML, CSS, JS, Python, PHP, C++ e Jupyter Notebook</p>
-  <p>Com PHP, eu só consigo fazer um formulário com ligação a banco de dados. Em C++ eu consigo fazer um semáforo com Arduino. Com Jupyter Notebook eu consigo fazer uma automação de computador.</p>
+  <p>Com PHP, eu só consigo fazer um formulário com ligação a banco de dados. Em C++ eu consigo fazer um semáforo com Arduino uno. Com Jupyter Notebook eu consigo fazer uma automação de computador.</p>
 </div>
 
 ## Direitos autorais ícones das linguagens de programação:

@@ -5,10 +5,11 @@
   <p>Eu gosto de jogar vídeo game</p>
 <br>
  </div>
- 
+
+ ## Linguagens de programação
   <div id="linguagens-de-programaçao">
-  <p>Observação 1: Eu sei somente o básico de HTML, CSS, JS, Python, PHP, C++ e Jupyter Notebook</p>
-  <p>Observação 2: Com PHP, eu só consigo fazer um formulário com ligação a banco de dados. Em C++ eu consigo fazer um semáforo com Arduino. Com Jupyter Notebook eu consigo fazer uma automação de computador.</p>
+  <p>Eu sei somente o básico de HTML, CSS, JS, Python, PHP, C++ e Jupyter Notebook</p>
+  <p>Com PHP, eu só consigo fazer um formulário com ligação a banco de dados. Em C++ eu consigo fazer um semáforo com Arduino. Com Jupyter Notebook eu consigo fazer uma automação de computador.</p>
 </div>
 
 ## Direitos autorais ícones das linguagens de programação:

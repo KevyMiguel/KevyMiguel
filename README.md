@@ -12,6 +12,8 @@
   <p>Com PHP, eu só consigo fazer um formulário com ligação a banco de dados. Em C++ eu consigo fazer um semáforo com Arduino uno. Com Jupyter Notebook eu consigo fazer uma automação de computador.</p>
 </div>
 
+<img src="https://camo.githubusercontent.com/1d975ec072309a8802ab784625f331fcbfdc357c2470e895cc126c76b919193e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616261363635266c61796f75743d636f6d70616374267468656d653d7261646963616c" alt="TOP Linguagens" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=aba665&amp;layout=compact&amp;theme=radical" style="max-width: 100%;">
+
 ## Direitos autorais ícones das linguagens de programação:
 <p>"https://github.com/devicons".</p> 
 

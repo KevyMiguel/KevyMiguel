@@ -21,7 +21,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
  <img align="center" alt="Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
- <img align="center" alt="Jupyter-Notebook" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter-notebook/jupyter-notebook-plain.svg">
+ <img align="center" alt="Jupyter-Notebook" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupiter-notebook/jupiter-notebook-plain.svg">
 </div>
 
 ## Direitos autorais ícones das linguagens de programação:

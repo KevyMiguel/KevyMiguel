@@ -5,20 +5,15 @@
   <p>Eu gosto de jogar vídeo game</p>
 <br>
  </div>
-
  ## Linguagens de programação
   <div id="linguagens-de-programaçao">
   <p>Eu sei somente o básico de HTML, CSS, JS, Python, PHP, C++ e Jupyter Notebook</p>
-  <p>Com PHP, eu só consigo fazer um formulário com ligação a banco de dados. Em C++ eu consigo fazer um semáforo com Arduino uno. Com Jupyter Notebook eu consigo fazer uma automação de computador.</p>
+  <!--<p>Com PHP, eu só consigo fazer um formulário com ligação a banco de dados. Em C++ eu consigo fazer um semáforo com Arduino uno. Com Jupyter Notebook eu consigo fazer uma automação de computador.</p>-->
 </div>
-<!--teste-->
-
  <div>
-   <a href="https://github.com/KevyMiguel">
    <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevymiguel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>-->
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevymiguel&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
-    
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

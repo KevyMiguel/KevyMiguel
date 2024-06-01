@@ -12,10 +12,10 @@
   <p>Com PHP, eu só consigo fazer um formulário com ligação a banco de dados. Em C++ eu consigo fazer um semáforo com Arduino uno. Com Jupyter Notebook eu consigo fazer uma automação de computador.</p>
 </div>
 <!--teste-->
-<!--
+
  <div>
    <a href="https://github.com/KevyMiguel">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevymiguel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>-->
+   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevymiguel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>-->
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevymiguel&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     

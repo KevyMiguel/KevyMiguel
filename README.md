@@ -1,7 +1,7 @@
 <h1>Bem-vindo(a) ao meu perfil😁</h1>  
 
  <div id="Importante">
-   <p>1Coríntios 10:31 <strong>Almeida Revista Corrigida</strong> diz: "Portanto, quer comais, quer bebais ou façais outra qualquer coisa, fazei tudo para a glória de Deus."</p>
+   <p>1Coríntios 10:31 <strong>Almeida Revista Corrigida</strong> diz: "Portanto, quer comais, <br>quer bebais ou façais outra qualquer coisa, fazei tudo para a glória de Deus."</p>
 <br>
  </div>
 <h2>Minhas redes sociais:</h2>

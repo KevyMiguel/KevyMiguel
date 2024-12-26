@@ -8,7 +8,7 @@
    <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevymiguel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>-->
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevymiguel&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
-<p>Minhas redes sociais:</p>
+<h2>Minhas redes sociais:</h2>
 <div id="redes-sociais"> 
   <a href="https://www.youtube.com/@kevy0012" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/ekBmkSYXGf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 

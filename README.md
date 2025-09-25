@@ -7,15 +7,6 @@
 
 <hr>
 
-<h2>Meu email</h2>
-<p>
-  <a href="mailto:kevyfreelancer@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-<hr>
-
 <h2>Minhas linguagens mais usadas:</h2>
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevymiguel&layout=compact&langs_count=6&theme=tokyonight"/>

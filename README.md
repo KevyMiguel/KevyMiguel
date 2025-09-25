@@ -5,9 +5,17 @@
   "Portanto, quer comais, quer bebais ou façais outra qualquer coisa, fazei tudo para a glória de Deus."
 </p>
 
+<p align="center">
+  <strong>1 Corinthians 10:31 (New International Version)</strong><br>
+  "So whether you eat or drink, or whatever you do, do it all for the glory of God."
+</p>
+
+
+
 <hr>
 
 <h2>Minhas linguagens mais usadas:</h2>
+<p>Minhas linguagens mais usadas:</p>
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevymiguel&layout=compact&langs_count=6&theme=tokyonight"/>
 </p>

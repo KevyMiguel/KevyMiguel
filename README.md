@@ -1,5 +1,5 @@
 <h1 align="center">Bem-vindo(a) ao meu perfil 😁</h1>
-<h3 align="center">Welcome to my profile 😁</h3>
+<h2 align="center">Welcome to my profile 😁</h2>
 
 <p align="center">
   <strong>1Coríntios 10:31 (Almeida Revista Corrigida)</strong><br>

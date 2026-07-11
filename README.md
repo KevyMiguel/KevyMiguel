@@ -12,13 +12,6 @@
 
 <hr>
 
-<h2>Minhas linguagens mais usadas:</h2>
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevymiguel&layout=compact&langs_count=6&theme=tokyonight"/>
-</p>
-
-<hr>
-
 <p align="center">
   🚀 Sempre aprendendo e buscando melhorar meus projetos de front-end!
 </p>
